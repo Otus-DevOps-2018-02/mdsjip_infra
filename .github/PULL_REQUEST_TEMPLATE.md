@@ -15,4 +15,4 @@
 
 ## PR labels
  - [x] label with the homework number
- - [x] label with the homework theme
+ - [x] label with the homework topic
